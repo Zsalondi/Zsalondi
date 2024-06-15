@@ -3,7 +3,7 @@
 <h2>👨‍💻 Digital Marketing Projects:</h2>
 
 - <b>Setting Performance Goals</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ZsaPope/osticket-prereqs)
+  - [Babba's Gullah restaurant: Q4 Performance Goals](https://github.com/ZsaPope/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ZsaPope/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ZsaPope/ticket-lifecycle)
 - <b>Microsoft Azure</b>
