@@ -4,7 +4,7 @@
 
 - <b>Setting Performance Goals</b>
   - [Babba's Gullah restaurant: Q4 Performance Goals](https://github.com/Zsalondi/Babbasq4)
-  - [Basic Google Analytics] (https://github.com/Zsalondi/Google-Analytics)
+  - [Basic Google Analytics](https://github.com/Zsalondi/Google-Analytics)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ZsaPope/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ZsaPope/configure-ad)
