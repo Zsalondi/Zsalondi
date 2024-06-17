@@ -3,12 +3,11 @@
 <h2>👨‍💻 Digital Marketing Projects:</h2>
 
 - <b>Setting Performance Goals</b>
-  - [Basic Google Analytics](https://github.com/Zsalondi/Google-Analytics)
+  - [Google Analytics: Finding Key Metrics](https://github.com/Zsalondi/Google-Analytics)
   - [Babba's Gullah restaurant: Q4 Performance Goals](https://github.com/Zsalondi/Babbasq4)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ZsaPope/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+<!-- - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ZsaPope/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ZsaPope/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ZsaPope/azure-network-protocols) -->
 
 <h2>🤳Connect with me:</h2>
 
