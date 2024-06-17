@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zsalondi, a <a href="https://www.linkedin.com/in/zsalondip">Digital Marketing Specialist</a>😊</h1>
+<h1>Hi, I'm Zsalondi, a <a href="https://www.linkedin.com/in/zsalondip">Digital Marketing Specialist</a> 😊</h1>
 
 <h2>👨‍💻 Digital Marketing Projects:</h2>
 
