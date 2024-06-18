@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Digital Marketing Projects:</h2>
 
-- <b>Analytics and Setting </b>
-  - [Google Analytics: Finding Key Metrics](https://github.com/Zsalondi/Google-Analytics)
-  - [Creating an Exploration in Google Analytics - In Progress](https://github.com/Zsalondi/GoogleXploration/tree/main)
+- <b>Google Analytics</b>
+  - [Finding Key Metrics](https://github.com/Zsalondi/Google-Analytics)
+  - [Creating an Exploration - In Progress](https://github.com/Zsalondi/GoogleXploration/tree/main)
   
-- <b>Performance Goals</b>
+- <b>Setting Performance Goals</b>
   - [Babba's Gullah restaurant: Q4 Performance Goals](https://github.com/Zsalondi/Babbasq4)
 
 <h2>🤳Connect with me:</h2>
