@@ -6,7 +6,7 @@
   - [Google Analytics: Finding Key Metrics](https://github.com/Zsalondi/Google-Analytics)
   - [Creating an Exploration in Google Analytics - In Progress](https://github.com/Zsalondi/GoogleXploration/tree/main)
   
-- <bPerformance Goals</b>
+- <b>Performance Goals</b>
   - [Babba's Gullah restaurant: Q4 Performance Goals](https://github.com/Zsalondi/Babbasq4)
 
 <h2>🤳Connect with me:</h2>
